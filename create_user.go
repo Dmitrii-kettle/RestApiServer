@@ -10,6 +10,7 @@ func GetNewDataBaseConnect() (*sql.DB, error) {
 	sqlDB, err := sql.Open("sqlite3", "database.db")
 	if err != nil {
 		mlog.Error("Database not connected. Error: %v", err)
+		return nil, err
 	}
 	mlog.Info("Database connected")
 	return sqlDB, nil

@@ -64,3 +64,10 @@
 2022/06/02 23:24:02.202 [I] [create_user.go:14]  Database connected
 2022/06/02 23:25:02.240 [E] [create_user.go:12]  Database not connected. Error: sql: unknown driver "sqlite3" (forgotten import?)
 2022/06/02 23:25:02.242 [I] [create_user.go:14]  Database connected
+2022/06/05 05:16:15.458 [D] [server.go:37]  Listening address: 26.50.234.113:8081
+2022/06/05 05:16:15.458 [D] [server.go:37]  Listening address: 10.18.0.111:8081
+2022/06/05 05:16:15.458 [D] [server.go:37]  Listening address: 169.254.160.23:8081
+2022/06/05 05:16:15.459 [D] [server.go:37]  Listening address: 169.254.228.21:8081
+2022/06/05 05:16:15.459 [D] [server.go:37]  Listening address: 192.168.1.101:8081
+2022/06/05 05:16:15.459 [D] [server.go:37]  Listening address: 127.0.0.1:8081
+2022/06/05 05:16:15.460 [D] [server.go:37]  Listening address: 172.18.61.17:8081
