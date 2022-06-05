@@ -1,0 +1,66 @@
+2022/05/27 17:05:08.798 [D] [server.go:37]  Listening address: 10.2.0.2:8081
+2022/05/27 17:05:08.799 [D] [server.go:37]  Listening address: 26.50.234.113:8081
+2022/05/27 17:05:08.799 [D] [server.go:37]  Listening address: 10.18.0.111:8081
+2022/05/27 17:05:08.800 [D] [server.go:37]  Listening address: 169.254.160.23:8081
+2022/05/27 17:05:08.800 [D] [server.go:37]  Listening address: 169.254.228.21:8081
+2022/05/27 17:05:08.801 [D] [server.go:37]  Listening address: 192.168.1.101:8081
+2022/05/27 17:05:08.802 [D] [server.go:37]  Listening address: 127.0.0.1:8081
+2022/05/27 17:05:08.802 [D] [server.go:37]  Listening address: 192.168.15.177:8081
+2022/05/27 17:09:17.194 [D] [server.go:37]  Listening address: 10.2.0.2:8081
+2022/05/27 17:09:17.196 [D] [server.go:37]  Listening address: 26.50.234.113:8081
+2022/05/27 17:09:17.196 [D] [server.go:37]  Listening address: 10.18.0.111:8081
+2022/05/27 17:09:17.196 [D] [server.go:37]  Listening address: 169.254.160.23:8081
+2022/05/27 17:09:17.197 [D] [server.go:37]  Listening address: 169.254.228.21:8081
+2022/05/27 17:09:17.197 [D] [server.go:37]  Listening address: 192.168.1.101:8081
+2022/05/27 17:09:17.198 [D] [server.go:37]  Listening address: 127.0.0.1:8081
+2022/05/27 17:09:17.198 [D] [server.go:37]  Listening address: 192.168.15.177:8081
+2022/05/27 17:09:59.772 [D] [server.go:37]  Listening address: 10.2.0.2:8081
+2022/05/27 17:09:59.774 [D] [server.go:37]  Listening address: 26.50.234.113:8081
+2022/05/27 17:09:59.774 [D] [server.go:37]  Listening address: 10.18.0.111:8081
+2022/05/27 17:09:59.775 [D] [server.go:37]  Listening address: 169.254.160.23:8081
+2022/05/27 17:09:59.775 [D] [server.go:37]  Listening address: 169.254.228.21:8081
+2022/05/27 17:09:59.775 [D] [server.go:37]  Listening address: 192.168.1.101:8081
+2022/05/27 17:09:59.775 [D] [server.go:37]  Listening address: 127.0.0.1:8081
+2022/05/27 17:09:59.776 [D] [server.go:37]  Listening address: 192.168.15.177:8081
+2022/05/27 17:10:45.298 [D] [server.go:37]  Listening address: 10.2.0.2:8081
+2022/05/27 17:10:45.299 [D] [server.go:37]  Listening address: 26.50.234.113:8081
+2022/05/27 17:10:45.300 [D] [server.go:37]  Listening address: 10.18.0.111:8081
+2022/05/27 17:10:45.301 [D] [server.go:37]  Listening address: 169.254.160.23:8081
+2022/05/27 17:10:45.302 [D] [server.go:37]  Listening address: 169.254.228.21:8081
+2022/05/27 17:10:45.302 [D] [server.go:37]  Listening address: 192.168.1.101:8081
+2022/05/27 17:10:45.303 [D] [server.go:37]  Listening address: 127.0.0.1:8081
+2022/05/27 17:10:45.303 [D] [server.go:37]  Listening address: 192.168.15.177:8081
+2022/05/27 17:11:10.805 [D] [server.go:37]  Listening address: 10.2.0.2:8081
+2022/05/27 17:11:10.805 [D] [server.go:37]  Listening address: 26.50.234.113:8081
+2022/05/27 17:11:10.806 [D] [server.go:37]  Listening address: 10.18.0.111:8081
+2022/05/27 17:11:10.807 [D] [server.go:37]  Listening address: 169.254.160.23:8081
+2022/05/27 17:11:10.807 [D] [server.go:37]  Listening address: 169.254.228.21:8081
+2022/05/27 17:11:10.808 [D] [server.go:37]  Listening address: 192.168.1.101:8081
+2022/05/27 17:11:10.808 [D] [server.go:37]  Listening address: 127.0.0.1:8081
+2022/05/27 17:11:10.809 [D] [server.go:37]  Listening address: 192.168.15.177:8081
+2022/06/02 20:11:35.029 [D] [server.go:37]  Listening address: 26.50.234.113:8081
+2022/06/02 20:11:35.049 [D] [server.go:37]  Listening address: 10.18.0.111:8081
+2022/06/02 20:11:35.050 [D] [server.go:37]  Listening address: 169.254.160.23:8081
+2022/06/02 20:11:35.052 [D] [server.go:37]  Listening address: 172.18.51.177:8081
+2022/06/02 20:11:35.052 [D] [server.go:37]  Listening address: 169.254.228.21:8081
+2022/06/02 20:11:35.053 [D] [server.go:37]  Listening address: 192.168.1.101:8081
+2022/06/02 20:11:35.054 [D] [server.go:37]  Listening address: 127.0.0.1:8081
+2022/06/02 23:22:18.830 [D] [server.go:37]  Listening address: 26.50.234.113:8081
+2022/06/02 23:22:18.831 [D] [server.go:37]  Listening address: 10.18.0.111:8081
+2022/06/02 23:22:18.831 [D] [server.go:37]  Listening address: 169.254.160.23:8081
+2022/06/02 23:22:18.832 [D] [server.go:37]  Listening address: 172.18.51.177:8081
+2022/06/02 23:22:18.832 [D] [server.go:37]  Listening address: 169.254.228.21:8081
+2022/06/02 23:22:18.833 [D] [server.go:37]  Listening address: 192.168.1.101:8081
+2022/06/02 23:22:18.834 [D] [server.go:37]  Listening address: 127.0.0.1:8081
+2022/06/02 23:23:25.089 [E] [create_user.go:12]  Database not connected. Error: sql: unknown driver "sqlite3" (forgotten import?)
+2022/06/02 23:23:25.091 [I] [create_user.go:14]  Database connected
+2022/06/02 23:23:26.205 [E] [create_user.go:12]  Database not connected. Error: sql: unknown driver "sqlite3" (forgotten import?)
+2022/06/02 23:23:26.206 [I] [create_user.go:14]  Database connected
+2022/06/02 23:23:27.100 [E] [create_user.go:12]  Database not connected. Error: sql: unknown driver "sqlite3" (forgotten import?)
+2022/06/02 23:23:27.101 [I] [create_user.go:14]  Database connected
+2022/06/02 23:23:32.146 [E] [create_user.go:12]  Database not connected. Error: sql: unknown driver "sqlite3" (forgotten import?)
+2022/06/02 23:23:32.147 [I] [create_user.go:14]  Database connected
+2022/06/02 23:24:02.200 [E] [create_user.go:12]  Database not connected. Error: sql: unknown driver "sqlite3" (forgotten import?)
+2022/06/02 23:24:02.202 [I] [create_user.go:14]  Database connected
+2022/06/02 23:25:02.240 [E] [create_user.go:12]  Database not connected. Error: sql: unknown driver "sqlite3" (forgotten import?)
+2022/06/02 23:25:02.242 [I] [create_user.go:14]  Database connected
